@@ -1,1 +1,1 @@
-const server = 'server';
+const server = 'routing';
